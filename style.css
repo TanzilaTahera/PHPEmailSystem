@@ -1,0 +1,15 @@
+#archive_tbl{
+	border: 1px solid teal;
+
+}
+
+th{
+	text-align: center;
+}
+tr{
+	text-align: left;
+}
+
+body{
+	padding: 10px;
+}
